@@ -1,0 +1,591 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<documentos>
+	<cartilla>
+		<archivoTexto>tizon_apical.xml</archivoTexto>
+		<imagenes>
+			<imagen>
+				<archivoImagen>c25_1.jpg</archivoImagen>
+				<pie>Tizón apical sobre eucalipto. Foto: Palladino, C., Pérez, G. y Pérez, C. 2014.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c25_2.jpg</archivoImagen>
+				<pie>Tizón bacteriano: (A) sobre la nervadura principal y en el pecíolo en E. #iglobulusi# y (B) distribuído en todo el limbo de la hoja en E. #i dunnii i#. Foto: Palladino, C., Pérez, G. y Pérez, C. 2014.</pie>
+			</imagen>
+			
+			<imagen>
+				<archivoImagen>c25_3.jpg</archivoImagen>
+				<pie>Tizón apical: (A) en E. #i grandis i# y (B) en E. #i dunnii i#. Foto: Palladino, C., Pérez, G. y Pérez, C. 2014.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c25_4.jpg</archivoImagen>
+				<pie>Síntomas de tizón apical en E. #i dunnii i#: (A) ataque severo y (B) cancro sobre el fuste. Foto: Palladino, C., Pérez, G. y Pérez, C. 2014.</pie>
+			</imagen>
+		</imagenes>
+	</cartilla>
+	<cartilla>
+		<archivoTexto>chinche_del_eucalipto.xml</archivoTexto>
+		<imagenes>
+			<imagen>
+				<archivoImagen>c24_1.jpg</archivoImagen>
+				<pie>Thaumastocoris peregrinus sobre hojas de Eucalyptus. Foto: Gonzalo Martínez.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c24_2.jpg</archivoImagen>
+				<pie>. Hembra y macho de Thaumastocoris peregrinus. La flecha indica la genitalia masculina. Foto: Gonzalo Martínez.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c24_3.jpg</archivoImagen>
+				<pie>Escala de daño de Thaumastocoris peregrinus. Foto: Gonzalo Martínez.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c24_4.jpg</archivoImagen>
+				<pie>Estadios ninfales de Thaumastocoris peregrinus. Foto: Gonzalo Martínez.</pie>
+			</imagen>
+		</imagenes>
+	</cartilla>
+	<cartilla>
+		<archivoTexto>mancha_foliar_por_teratosphaeria.xml</archivoTexto>
+		<imagenes>
+			<imagen>
+				<archivoImagen>c23_1.jpg</archivoImagen>
+				<pie>T. nubilosa sobre hojas de Eucalyptus. Foto: Simeto, S., Balmelli, G., Pérez, C. y Pérez, G. 2014.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c23_2.jpg</archivoImagen>
+				<pie>. Manchas de T. nubilosa sobre E. globulus. A: manchas discretas y fusión de manchas; B: detalle de una mancha y fructificaciones de T. nubilosa en el envés de la hoja. Foto: Simeto, S., Balmelli, G., Pérez, C. y Pérez, G. 2014.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c23_3.jpg</archivoImagen>
+				<pie>Defoliación y muerte de ápices y ramas laterales en E. globulus. Foto: Simeto, S., Balmelli, G., Pérez, C. y Pérez, G. 2014.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c23_4.jpg</archivoImagen>
+				<pie>Defoliación severa en E. globulus (se observa brotación basal de los árboles). Foto: Simeto, S., Balmelli, G., Pérez, C. y Pérez, G. 2014.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c23_5.jpg</archivoImagen>
+				<pie>Árbol con follaje juvenil y totalmente defoliado (adelante) y árbol con follaje adulto sin defoliación (atrás) en plantación de E. globulus. Foto: Simeto, S., Balmelli, G., Pérez, C. y Pérez, G. 2014.</pie>
+			</imagen>
+			
+		</imagenes>
+	</cartilla>
+	<cartilla>
+		<archivoTexto>avispa_taladradora.xml</archivoTexto>
+		<imagenes>
+			<imagen>
+				<archivoImagen>c22_1.jpg</archivoImagen>
+				<pie>Signos de ataque (resinación) de Sirex noctilio. Foto: Demian Gómez.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c22_2.jpg</archivoImagen>
+				<pie>Ejemplares de Sirex noctilio macho (izquierda) y hembra (derecha). Foto: Demian Gómez.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c22_3.jpg</archivoImagen>
+				<pie>Sirex noctilio en vista lateral. Foto: Demian Gómez.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c22_4.jpg</archivoImagen>
+				<pie>Orificios de salida de Sirex noctilio. Foto: Demian Gómez.</pie>
+			</imagen>
+		</imagenes>
+	</cartilla>
+	<cartilla>
+		<archivoTexto>roya_del_eucalipto.xml</archivoTexto>
+		<imagenes>
+			<imagen>
+				<archivoImagen>c21_1.jpg</archivoImagen>
+				<pie>Roya sobre hojas de eucalipto. Foto: Sofía Simeto.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c21_2.jpg</archivoImagen>
+				<pie>Ápice con deformación y necrosis de hojas y brotes. Pústulas viejas formando manchas de coloración marrón–rojiza sobre hojas de E. grandis. Foto: Sofía Simeto.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c21_3.jpg</archivoImagen>
+				<pie>Infección sobre tallo de E. grandis. Foto: Sofía Simeto.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c21_4.jpg</archivoImagen>
+				<pie>Pústulas con esporulación amarillo intenso y deformación incipiente de la hoja en E. grandis x E. camaldulensis. Foto: Sofía Simeto.</pie>
+			</imagen>
+		</imagenes>
+	</cartilla>
+	<cartilla>
+		<archivoTexto>gorgojo_del_pino.xml</archivoTexto>
+		<imagenes>
+			<imagen>
+				<archivoImagen>c20_1.jpg</archivoImagen>
+				<pie>Camaras pupales de Pissodes castaneus. Foto: Demian Gómez.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c20_2.jpg</archivoImagen>
+				<pie>Adulto de P. castaneus. Foto: Ma. Pía Rosales.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c20_3.jpg</archivoImagen>
+				<pie>Ataque de P. castaneus. A) Anillamiento producido por galerías larvales. B) Muerte por anillamiento. Foto: Cecilia Gomez.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c20_4.jpg</archivoImagen>
+				<pie>Galerías larvales y pupa de P. castaneus. Foto: Ma. Pía Rosales.</pie>
+			</imagen>
+		</imagenes>
+	</cartilla>
+	<cartilla>
+		<archivoTexto>taladro_de_eucaliptus.xml</archivoTexto>
+		<imagenes>
+			<imagen>
+				<archivoImagen>c19_1.jpg</archivoImagen>
+				<pie>Galerías de Phoracantha spp. en Eucalyptus. Foto: Demian Gómez.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c19_2.jpg</archivoImagen>
+				<pie>Aspecto general de P. recurva. Foto: Demian Gómez. </pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c19_3.jpg</archivoImagen>
+				<pie>Aspecto general de P. semipunctata. Foto: Demian Gómez. </pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c19_4.jpg</archivoImagen>
+				<pie>Muerte de árboles debido a Phoracantha sp. Foto: Demian Gómez. </pie>
+			</imagen>
+		</imagenes>
+	</cartilla>
+	<cartilla>
+		<archivoTexto>taladro_de_los_forestales.xml</archivoTexto>
+		<imagenes>
+			<imagen>
+				<archivoImagen>c17_1.jpg</archivoImagen>
+				<pie>Orificio de entrada de Megaplatypus mutatus. Foto: Demian Gómez.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c17_2.jpg</archivoImagen>
+				<pie>Aserrín compactado de orificio de entrada de M. mutatus en E. grandis x E. camaldulensis. Foto: Demian Gómez.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c17_3.jpg</archivoImagen>
+				<pie>Orificios de entrada de M. mutatus sobre Casuarina cunninghamiana. Foto: Demian Gómez.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c17_4.jpg</archivoImagen>
+				<pie>Adulto de M. mutatus. Foto: Demian Gómez.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c17_5.jpg</archivoImagen>
+				<pie>Galerías de M. mutatus en E. grandis x E. camaldulensis. Foto: Demian Gómez.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c17_6.jpg</archivoImagen>
+				<pie>Quiebre del fuste generado por galerías de M. mutatus. Foto: Demian Gómez.</pie>
+			</imagen>
+		</imagenes>
+	</cartilla>
+	<cartilla>
+		<archivoTexto>mancha_por_epicoccoides.xml</archivoTexto>
+		<imagenes>
+			<imagen>
+				<archivoImagen>c16_1.jpg</archivoImagen>
+				<pie>Mancha por epicoccoides en eucaliptos. Foto: Simeto, S., Balmelli, G. y Pérez, C. 2014.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c16_2.jpg</archivoImagen>
+				<pie>Manchas de T. suttonii sobre E. tereticornis, haz (A) y envés (B) de la hoja. Foto: Simeto, S., Balmelli, G. y Pérez, C. 2014.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c16_3.jpg</archivoImagen>
+				<pie>Envés de hojas de E. grandis infectadas por T. suttonii en las que se observan zonas más oscuras producto de la acumulación de esporas a partir de las fructificaciones. Foto: Simeto, S., Balmelli, G. y Pérez, C. 2014.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c16_4.jpg</archivoImagen>
+				<pie>Hojas de E. dunnii infectadas por T. suttonii. Foto: Simeto, S., Balmelli, G. y Pérez, C. 2014.</pie>
+			</imagen>
+		</imagenes>
+	</cartilla>
+	<cartilla>
+		<archivoTexto>mancha_foilar_bacteriana.xml</archivoTexto>
+		<imagenes>
+			<imagen>
+				<archivoImagen>c15_1.jpg</archivoImagen>
+				<pie>Mancha foliar bacteriana. Foto: Palladino, C., Pérez, G. Y Pérez, C. 2014.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c15_2.jpg</archivoImagen>
+				<pie>Mancha foliar bacteriana en A: E. grandis, B: E. dunnii. Foto: Palladino, C., Pérez, G. Y Pérez, C. 2014.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c15_3.jpg</archivoImagen>
+				<pie>Mancha foliar bacteriana en E. grandis. Foto: Palladino, C., Pérez, G. Y Pérez, C. 2014.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c15_4.jpg</archivoImagen>
+				<pie>Defoliación en E. grandis asociada a mancha foliar bacteriana. Foto: Palladino, C., Pérez, G. Y Pérez, C. 2014.</pie>
+			</imagen>
+		</imagenes>
+	</cartilla>
+	<cartilla>
+		<archivoTexto>mancha_amarilla_del_eucaplipto.xml</archivoTexto>
+		<imagenes>
+			<imagen>
+				<archivoImagen>c14_1.jpg</archivoImagen>
+				<pie>Manchas sobre hojas de eucalipto. Foto: Sofía Simeto.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c14_2.jpg</archivoImagen>
+				<pie>Defoliación en E. camaldulensis. Foto: Sofía Simeto.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c14_3.jpg</archivoImagen>
+				<pie>Manchas sobre E. camaldulensis en etapa inicial con fructificaciones. Foto: Sofía Simeto.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c14_4.jpg</archivoImagen>
+				<pie>Manchas maduras sobre E. camaldulensis. Foto: Carlos Pérez.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c14_5.jpg</archivoImagen>
+				<pie>Manchas sobre E. grandis. Foto: Sofía Simeto.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c14_6.jpg</archivoImagen>
+				<pie>Fusión de varias manchas en etapa inicial, sobre E. tereticornis. Foto: Gustavo Balmelli.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c14_7.jpg</archivoImagen>
+				<pie>Manchas sobre hoja joven de E. tereticornis. Foto: Sofía Simeto.</pie>
+			</imagen>
+		</imagenes>
+	</cartilla>
+	<cartilla>
+		<archivoTexto>avispa_agalladora_del_eucaplipto.xml</archivoTexto>
+		<imagenes>
+			<imagen>
+				<archivoImagen>c13_1.jpg</archivoImagen>
+				<pie>Agallas de L. Invasa sobre hoja de eucalipto. Foto: Jorge, C. 2014.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c13_2.jpg</archivoImagen>
+				<pie>Leptocybe invasa en vista lateral. Foto: Demian Gómez.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c13_3.jpg</archivoImagen>
+				<pie>Daño en E. globulus. Foto: Jorge, C. 2014.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c13_4.jpg</archivoImagen>
+				<pie>Daño en E. benthamii. Foto: Jorge, C. 2014.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c13_5.jpg</archivoImagen>
+				<pie>Daño en E. benthamii. Foto: Jorge, C. 2014.</pie>
+			</imagen>
+		</imagenes>
+	</cartilla>
+	<cartilla>
+		<archivoTexto>podredumbre_de_arboles__en_pie.xml</archivoTexto>
+		<imagenes>
+			<imagen>
+				<archivoImagen>c12_1.jpg</archivoImagen>
+				<pie>Podredumbre en corte transversal. Foto: Martínez, S., Lupo, S. Y Bettucci, L. 2014.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c12_2.jpg</archivoImagen>
+				<pie>Fustes de E. globulus presentando achatamiento sin xilema expuesto (A) y cancros con xilema expuesto (B). Foto: Martínez, S., Lupo, S. Y Bettucci, L. 2014.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c12_3.jpg</archivoImagen>
+				<pie>Corte transversal de tronco de E. globulus con podredumbre del duramen. Foto: Martínez, S., Lupo, S. Y Bettucci, L. 2014.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c12_4.jpg</archivoImagen>
+				<pie>Árbol de E. globulus partido en la zona de la lesión. Foto: Martínez, S., Lupo, S. Y Bettucci, L. 2014.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c12_5.jpg</archivoImagen>
+				<pie>Fructificaciones de Inocutis jamaicensis. Foto: Martínez, S., Lupo, S. Y Bettucci, L. 2014.</pie>
+			</imagen>
+		</imagenes>
+	</cartilla>
+	<cartilla>
+		<archivoTexto>hormigas_cortadoras_de_horas.xml</archivoTexto>
+		<imagenes>
+			<imagen>
+				<archivoImagen>c11_1.jpg</archivoImagen>
+				<pie>Hormigas cortadoras sobre Eucalyptus. Foto: Bollazi, M. 2014.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c11_2.jpg</archivoImagen>
+				<pie>Ápice de E. globulus de 4 años defoliado por Acromyrmex lundii. Foto: Bollazi, M. 2014.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c11_3.jpg</archivoImagen>
+				<pie>Diferencias morfológicas entre hormigas cortadoras y no cortadoras. A) Hormiga no cortadora, Camponotus rufipes (sin espinas en el tórax). B) Hormiga cortadora, Acromyrmex lundii (con espinas en el tórax). Foto: Bollazi, M. 2014.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c11_4.jpg</archivoImagen>
+				<pie>Nido subterráneo de Acromyrmex lundii. El nido solo se evidencia por los caminos que finalizan en los orificios de entrada. Foto: Bollazi, M. 2014.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c11_5.jpg</archivoImagen>
+				<pie>Nido superficial de Acromyrmex heyeri. Foto: Bollazi, M. 2014.</pie>
+			</imagen>
+		</imagenes>
+	</cartilla>
+	<cartilla>
+		<archivoTexto>grogojo_del_eucalipto.xml</archivoTexto>
+		<imagenes>
+			<imagen>
+				<archivoImagen>c10_1.jpg</archivoImagen>
+				<pie>Defoliación causada por Gonipterus spp. Foto: Cibils, X. y Gómez, D. 2014.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c10_2.jpg</archivoImagen>
+				<pie>Adulto de Gonipterus scutellatus. Foto: Demian Gómez.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c10_3.jpg</archivoImagen>
+				<pie>Larva de Gonipterus scutellatus. Foto: Demian Gómez.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c10_4.jpg</archivoImagen>
+				<pie>Anaphes nitens parasitando ootecas. Foto: Demian Gómez.</pie>
+			</imagen>
+		</imagenes>
+	</cartilla>
+	<cartilla>
+		<archivoTexto>psilido_de_escudo.xml</archivoTexto>
+		<imagenes>
+			<imagen>
+				<archivoImagen>c9_1.jpg</archivoImagen>
+				<pie>Lerps de Glycaspis brimblecombei sobre hoja de eucalipto. Foto: Martínez, G. 2014.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c9_2.jpg</archivoImagen>
+				<pie>Macho de Glycaspis brimblecombei. Foto: Martínez, G. 2014.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c9_3.jpg</archivoImagen>
+				<pie>Ataque severo de Glycaspis brimblecombei con abundancia de lerps. Foto: Gustavo Balmelli.</pie>
+			</imagen>
+		</imagenes>
+	</cartilla>
+	<cartilla>
+		<archivoTexto>cancro_resinso_del_pino.xml</archivoTexto>
+		<imagenes>
+			<imagen>
+				<archivoImagen>c8_1.jpg</archivoImagen>
+				<pie>Fuste de Pinus afectado por la enfermedad en EEUU. Foto: Will Littke.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c8_2.jpg</archivoImagen>
+				<pie>Plantas de Pinus afectadas por la enfermedad. Foto: Raquel Alonso.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c8_3.jpg</archivoImagen>
+				<pie>Die-back (muerte regresiva) asociado a F. circinatum en EEUU. Foto: Will Littke.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c8_4.jpg</archivoImagen>
+				<pie>Abundante resinación debida a la infección por F. circinatum en EEUU. Foto: Will Littke.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c8_5.jpg</archivoImagen>
+				<pie>Esporodoquios sobre lesión en planta de P. taeda. Foto: Raquel Alonso.</pie>
+			</imagen>
+		</imagenes>
+	</cartilla>
+	<cartilla>
+		<archivoTexto>escarabajos_de_ambrosia.xml</archivoTexto>
+		<imagenes>
+			<imagen>
+				<archivoImagen>c7_1.jpg</archivoImagen>
+				<pie>Orificios de entrada de escolítidos de ambrosía en Eucalyptus. Foto: Demian Gómez. </pie>
+			</imagen>
+			 <imagen>
+				<archivoImagen>c7_2.jpg</archivoImagen>
+				<pie>Orificio de escolítidos de ambrosía sobre E. grandis con presencia de aserrín compactado. Foto: Demian Gómez. </pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c7_3.jpg</archivoImagen>
+				<pie>Orificio de escolítidos de ambrosía sobre E. grandis con presencia de aserrín. Foto: Demian Gómez. </pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c7_4.jpg</archivoImagen>
+				<pie>Adulto de Xyleborinus saxesenii en vista lateral. Foto: Demian Gómez. </pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c7_5.jpg</archivoImagen>
+				<pie>Adulto de Xyleborus ferrugineus en vista lateral. Foto: Demian Gómez. </pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c7_6.jpg</archivoImagen>
+				<pie>Galería de Xyleborus ferrugineus asociada a Ceratocystis. Foto: Demian Gómez.</pie>
+			</imagen>
+		</imagenes>
+	</cartilla>
+	<cartilla>
+		<archivoTexto>esarabajos_de_corteza_de_pino.xml</archivoTexto>
+		<imagenes>
+			<imagen>
+				<archivoImagen>c6_1.jpg</archivoImagen>
+				<pie>Foco de escarabajos de corteza en Pinus taeda. Foto: Demian Gómez.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c6_2.jpg</archivoImagen>
+				<pie>Hongo de mancha azul vectorizado en trozas de Pinus taeda. Foto: Demian Gómez.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c6_3.jpg</archivoImagen>
+				<pie>Especies de escolítidos de pino presentes en Uruguay, con sus galerías reproductivas. A) Hylurgus ligniperda, B) Orthotomicus erosus, C) Cyrtogenius luteus. Foto: Demian Gómez.</pie>
+			</imagen>
+		</imagenes>
+	</cartilla>
+	<cartilla>
+		<archivoTexto>psilido_de__los_eucaliptos.xml</archivoTexto>
+		<imagenes>
+			<imagen>
+				<archivoImagen>c5_1.jpg</archivoImagen>
+				<pie>Secreciones azucaradas de Ctenarytaina eucalypti en ápice de eucaliptos. Foto: Martínez, G. 2014.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c5_2.jpg</archivoImagen>
+				<pie>Adulto de C. eucalypti. Foto: Martínez, G. 2014.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c5_3.jpg</archivoImagen>
+				<pie>Adulto recién emergido y ninfas de C. eucalypti. Foto: Martínez, G. 2014.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c5_4.jpg</archivoImagen>
+				<pie>Ápice de E. grandis con ataque de C. spatulata. Foto: Mauricio Otegui.</pie>
+			</imagen>
+			
+			<imagen>
+				<archivoImagen>c5_5.jpg</archivoImagen>
+				<pie>Ápice de E. globulus con ataque de C. eucalypti. Foto: Martínez, G. 2014.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c5_6.jpg</archivoImagen>
+				<pie>Postura de C. eucalypti sobre E. globulus. En segundo plano a la izquierda puede verse una ninfa parasitada por P. pilosus. Foto: Martínez, G. 2014.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c5_7.jpg</archivoImagen>
+				<pie>Adultos de C. spatulata en cópula sobre E. grandis. Foto: Mauricio Otegui.</pie>
+			</imagen>
+		</imagenes>
+	</cartilla>
+	<cartilla>
+		<archivoTexto>escarabajo_amarillo_del_ eucalipto.xml</archivoTexto>
+		<imagenes>
+			<imagen>
+				<archivoImagen>c4_1.jpg</archivoImagen>
+				<pie>Adultos de Costalimaita ferruginea sobre hoja de eucalipto. Foto: Jorge, C. y Gómez, D. 2014.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c4_2.jpg</archivoImagen>
+				<pie>Defoliación ocasionada por C. ferruginea. Foto: Ma. Pía Rosales.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c4_3.jpg</archivoImagen>
+				<pie>Quiebre de ápice por C. ferruginea. Foto: Ma. Pía Rosales.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c4_4.jpg</archivoImagen>
+				<pie>Ataque de C. ferruginea. Foto: Ma. Pía Rosales.</pie>
+			</imagen>
+		</imagenes>
+	</cartilla>
+	<cartilla>
+		<archivoTexto>marchitamiento_por_ceratocystis.xml</archivoTexto>
+		<imagenes>
+			<imagen>
+				<archivoImagen>c3_1.jpg</archivoImagen>
+				<pie>Corte transversal de Eucalyptus exponiendo manchas producidas por Ceratocystis fimbriata. Foto: Reyna, R. y Pérez, C. 2014. </pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c3_2.jpg</archivoImagen>
+				<pie>Síntoma inicial de marchitamiento por Ceratocystis. Foto: Reyna, R. y Pérez, C. 2014.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c3_3.jpg</archivoImagen>
+				<pie>Síntomas de marchitamiento por Ceratocystis en vivero. Foto: Reyna, R. y Pérez, C. 2014.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c3_4.jpg</archivoImagen>
+				<pie>Decoloración de los haces del xilema. A) Rama. B) Fuste. Foto: Reyna, R. y Pérez, C. 2014.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c3_5.jpg</archivoImagen>
+				<pie>Peritecios (órganos reproductivos sexuales del hongo) sobre la madera afectada. Foto: Reyna, R. y Pérez, C. 2014.</pie>
+			</imagen>
+		</imagenes>
+	</cartilla>
+	<cartilla>
+		<archivoTexto>cancros_por_coniothyrium.xml</archivoTexto>
+		<imagenes>
+			<imagen>
+				<archivoImagen>c2_1.jpg</archivoImagen>
+				<pie>Cancro producido por Botryosphaeriaceae. Foto: Pérez, G. y Pérez, C. 2014.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c2_2.jpg</archivoImagen>
+				<pie>Cancros en fustes jóvenes de E. dunnii. Foto: Gustavo Balmelli y Sofía Simeto.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c2_3.jpg</archivoImagen>
+				<pie>Cancros en fustes jóvenes de E. benthamii. Foto: Gustavo Balmelli y Sofía Simeto.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c2_4.jpg</archivoImagen>
+				<pie>Cancros en fustes jóvenes de E. tereticornis. Foto: Gustavo Balmelli y Sofía Simeto.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c2_5.jpg</archivoImagen>
+				<pie>Cancros en fustes adultos de E. grandis. Foto: Gustavo Balmelli.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c2_6.jpg</archivoImagen>
+				<pie>Cancros en fustes adultos de E. globulus. Foto: Gustavo Balmelli.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c2_7.jpg</archivoImagen>
+				<pie>Cancros en fustes adultos de E. maidenii. Foto: Gustavo Balmelli.</pie>
+			</imagen>
+		</imagenes>
+	</cartilla>
+	<cartilla>
+		<archivoTexto>cancro_por_botryosphaeria.xml</archivoTexto>
+		<imagenes>
+			<imagen>
+				<archivoImagen>c1_1.jpg</archivoImagen>
+				<pie>Cancro producido por Botryosphaeriaceae. Foto: Pérez, G. y Pérez, C. 2014.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c1_2.jpg</archivoImagen>
+				<pie>Cancro por Botryosphaeria en Eucalyptus globulus. Foto: Pérez, G. y Pérez, C. 2014.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c1_2.jpg</archivoImagen>
+				<pie>Signo de la enfermedad. Cuerpos fructíferos uniloculares, negros, con contenido blanco brillante que corresponde a las estructuras reproductivas del patógeno. Esto puede observarse al cortar al ras el tejido colonizado y mediante la ayuda de una lupa 10x. Foto: Pérez, G. y Pérez, C. 2014.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c1_3.jpg</archivoImagen>
+				<pie>Corte longitudinal de un cancro. Obsérvese la profusa acumulación de quino que es retenida en la madera. Foto: Pérez, G. y Pérez, C. 2014.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c1_4.jpg</archivoImagen>
+				<pie>Corte transversal de una troza de E. globulus donde se observa un cancro de xilema expuesto y sobrecrecimiento del tejido circundante. Además se observan bolsas de quino correspondientes a un segundo cancro. Foto: Pérez, G. y Pérez, C. 2014.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c1_5.jpg</archivoImagen>
+				<pie>Muerte descendente (dieback) causada por Botryosphaeria spp. asociada a heladas en un árbol joven. Foto: Pérez, G. y Pérez, C. 2014.</pie>
+			</imagen>
+			<imagen>
+				<archivoImagen>c1_6.jpg</archivoImagen>
+				<pie>Plantación joven de Eucalyptus dañada por helada y afectada por Botryosphaeriaceae. Foto: Pérez, G. y Pérez, C. 2014.</pie>
+			</imagen>
+		</imagenes>
+	</cartilla>
+</documentos>
+
